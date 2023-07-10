@@ -158,3 +158,8 @@
 .btn:hover {
   background: #1abc9c;
 }
+
+@media screen and (max-width:700px){
+.display{
+  width : 80%;
+}
